@@ -1,7 +1,7 @@
 // import React from "react";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import  Button  from "../components/ui/Button";
-import sampleImage from "../assets/img/jakpro-orgchart.png"; // Ensure this path is correct
+import sampleImage from "../assets/img/jakpro-orgchart.jpeg"; // Ensure this path is correct
 
 const ImageViewer = () => {
   const handleSaveImage = () => {
